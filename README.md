@@ -3,7 +3,9 @@
 This project develops a Modelica-based digital twin that simulates glucose and insulin dynamics in a simplified one-compartment patient model.  
 It combines a patient model, meal input, different pancreas types, and an insulin pump to study how different meals and insulin delivery strategies affect blood glucose over time.
 
-The model is built for experimentation, education, and further development of control strategies for diabetes treatment.  
+The model is built for experimentation, education, and further development of control strategies for diabetes treatment.
+
+Further information can be found in the documentation of the OpenModelica library.
 
 Interested users can test the model with OpenModelica:
 
